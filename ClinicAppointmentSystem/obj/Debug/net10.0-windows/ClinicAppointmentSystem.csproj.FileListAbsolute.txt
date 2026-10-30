@@ -1,0 +1,17 @@
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\bin\Debug\net10.0-windows\ClinicAppointmentSystem.exe
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\bin\Debug\net10.0-windows\ClinicAppointmentSystem.deps.json
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\bin\Debug\net10.0-windows\ClinicAppointmentSystem.runtimeconfig.json
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\bin\Debug\net10.0-windows\ClinicAppointmentSystem.runtimeconfig.dev.json
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\bin\Debug\net10.0-windows\ClinicAppointmentSystem.dll
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\bin\Debug\net10.0-windows\ClinicAppointmentSystem.pdb
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\obj\Debug\net10.0-windows\ClinicAppointmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\obj\Debug\net10.0-windows\ClinicAppointmentSystem.AssemblyInfoInputs.cache
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\obj\Debug\net10.0-windows\ClinicAppointmentSystem.AssemblyInfo.cs
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\obj\Debug\net10.0-windows\ClinicAppointmentSystem.csproj.CoreCompileInputs.cache
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\obj\Debug\net10.0-windows\ClinicAppointmentSystem.sourcelink.json
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\obj\Debug\net10.0-windows\ClinicAppointmentSystem.dll
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\obj\Debug\net10.0-windows\refint\ClinicAppointmentSystem.dll
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\obj\Debug\net10.0-windows\ClinicAppointmentSystem.pdb
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\obj\Debug\net10.0-windows\ClinicAppointmentSystem.genruntimeconfig.cache
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\obj\Debug\net10.0-windows\ref\ClinicAppointmentSystem.dll
+C:\Users\ma\Desktop\4TH_year\Event\Project\Patient-Appointment-System\ClinicAppointmentSystem\obj\Debug\net10.0-windows\ClinicAp.7FA2F521.Up2Date
