@@ -106,26 +106,28 @@ public class LoginForm : Form
         };
     }
 
+
     private void BtnLogin_Click(object? sender, EventArgs e)
     {
-        if (txtUsername.Text == "admin" &&
-            txtPassword.Text == "1234")
-        {
-            MessageBox.Show("Login successful!");
+        string username = txtUsername.Text.Trim();
+        string password = txtPassword.Text;
 
-            Hide();
-            using DashboardForm dashboard = new();
-            dashboard.ShowDialog();
-            Close();
-        }
-        else
+        User? user = ClinicData.Users.Find(u =>
+            u.Username == username && u.Password == password);
+
+        if (user == null)
         {
-            MessageBox.Show(
-                "Invalid username or password.",
-                "Login Failed",
-                MessageBoxButtons.OK,
-                MessageBoxIcon.Warning
-            );
+            MessageBox.Show("Invalid username or password.");
+            return;
         }
+
+        MessageBox.Show($"Welcome, {user.FullName}!");
+
+        Hide();
+
+        using DashboardForm dashboard = new(user);
+        dashboard.ShowDialog();
+
+        Close();
     }
 }
